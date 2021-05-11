@@ -2,16 +2,13 @@
 #include<conio.h>
 int main()
 {
-    int a,b,sum;
-    printf("Enter two numbers");
+    int a,b,sum=o;
+
+    printf("Enter the two numbers");
     scanf("%d %d",&a,&b);
-    if(a==b)
-    {
-        printf("Two numbers are equal");
-    }
-    else
-    {
-        printf("Two numbers are not equal");
-    }
+
+    sum==a=b
+
+    printf(The sum of two numbers is=%d,sum=0);
 }
 
